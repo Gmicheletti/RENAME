@@ -1,0 +1,6 @@
+﻿iniciando-renamer.jpg;iniciando-renamer.jpg
+img-3981.jpg;guilherme.jpg
+img-4017.jpg;augusto.jpg
+img-4073.jpg;micheletti.jpg
+img-4085.jpg;book.jpg
+img-4097.jpg;convites.jpg
