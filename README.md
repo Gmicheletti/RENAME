@@ -21,3 +21,7 @@ Para executar o RENAME, é necessário que o computador possua o Python instalad
 
 - [@Gmicheletti](https://github.com/Gmicheletti)
 
+
+## Considerações
+
+O projeto não foi aprimorado, sendo assim o desenvolvimento parou na versão inicial de v1.3
